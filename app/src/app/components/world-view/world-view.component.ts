@@ -163,19 +163,14 @@ export class WorldViewComponent implements OnInit, DoCheck, OnChanges {
   }
 
   private insertPins(parent: Element) {
+    console.log('insertPins');
     if (this.pins) {
       this.pins.forEach(p => {
         this.insertPin(p, parent);
+        this.pinsApplied = true;
       });
     }
   }
-
-  // private insertPins(parent: Element) {
-  //   if (this.pins) {
-  //     this.pins.forEach(p => this.insertPin(p, parent, p.asset));
-  //     this.pinsApplied = true;
-  //   }
-  // }
 
   private insertPin(pin: Pin, parent: Element) {
     const g = this.renderer.createElement('g', this.svgNamespace);
