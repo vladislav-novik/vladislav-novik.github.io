@@ -183,6 +183,7 @@ export class WorldViewComponent implements OnInit, DoCheck, OnChanges {
     this.renderer.setAttribute(image, 'x', pin.position.x.toString());
     this.renderer.setAttribute(image, 'y', pin.position.y.toString());
     this.renderer.setAttribute(image, 'width', '75');
+    this.renderer.setAttribute(image, 'height', '75');
     this.renderer.setAttribute(image, 'href', pin.asset);
     this.renderer.addClass(image, 'pinAsset');
 
