@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[396],{396:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});const a='<div class="container" [innerHtml]="svg | safeHtml" #container></div>\n'}}]);

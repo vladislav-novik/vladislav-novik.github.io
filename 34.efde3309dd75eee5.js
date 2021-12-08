@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[34],{34:e=>{e.exports='export default ".world {\\r\\n    position: relative;\\r\\n}";'}}]);

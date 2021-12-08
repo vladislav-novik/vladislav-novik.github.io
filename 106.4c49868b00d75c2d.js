@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[106],{106:(a,d,p)=>{p.r(d),p.d(d,{default:()=>s});const s='<div class="world">\n  <app-world-view [svg]="background"></app-world-view>\n</div>'}}]);

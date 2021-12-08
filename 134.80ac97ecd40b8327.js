@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[134],{134:e=>{e.exports='export default ".container {\\r\\n    width: 100vw;\\r\\n    height: 100vh;\\r\\n    overflow: hidden;\\r\\n}\\r\\n";'}}]);

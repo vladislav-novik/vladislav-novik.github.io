@@ -1,0 +1,26 @@
+<svg id="Laag_1" data-name="Laag 1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 118 88">
+    <defs>
+        <style>.cls-1{fill:url(#Naamloos_verloop_137);}.cls-2{fill:#9c3;}.cls-3{fill:url(#Naamloos_verloop_130);}</style>
+        <linearGradient id="Naamloos_verloop_137" x1="86.79" y1="33.32" x2="60.05" y2="-13" gradientTransform="matrix(1, 0, 0, -1, 0, 90)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-opacity="0"/>
+            <stop offset="1" stop-opacity="0.4"/>
+        </linearGradient>
+        <radialGradient id="Naamloos_verloop_130" cx="33.35" cy="58.2" r="23.32" gradientTransform="matrix(1, 0, 0, -1, 0, 90)" gradientUnits="userSpaceOnUse">
+            <stop offset="0.3" stop-color="#9c3"/>
+            <stop offset="0.59" stop-color="#97ca33"/>
+            <stop offset="0.7" stop-color="#91c333"/>
+            <stop offset="0.79" stop-color="#86b733"/>
+            <stop offset="0.86" stop-color="#77a533"/>
+            <stop offset="0.88" stop-color="#709e33"/>
+            <stop offset="0.92" stop-color="#6c9b2a"/>
+            <stop offset="0.98" stop-color="#629111"/>
+            <stop offset="1" stop-color="#5d8d06"/>
+        </radialGradient>
+    </defs>
+    <title>illu_marker_on</title>
+    <path class="cls-1" d="M115.4,73.6c-4.65-5.25-29.65-9.85-54.2-.3C54.87,75.61,28,86,30.7,85.9,30.8,86,122.2,82.3,115.4,73.6Z"/>
+    <path class="cls-2" d="M30.4,2A28.21,28.21,0,0,0,2.2,30.2a28.64,28.64,0,0,0,2.2,11h0l.2.4a29,29,0,0,0,2.3,4.2L19,67.9l8.9,16.3c1.3,2.4,3.5,2.4,4.9,0l6.6-12.1L53.3,46.8A28.2,28.2,0,0,0,30.4,2Z"/>
+    <circle class="cls-3" cx="30.2" cy="30" r="22.9" style="fill:#ffffff" />
+</svg>
