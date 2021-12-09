@@ -11,6 +11,8 @@ export class ClubhouseViewComponent implements AfterViewInit {
   items = [{
     x: 1035,
     y: 254,
+    height: 114,
+    width: 118,
     href: 'assets/bttn_ch-dictee.svg',
     alt: 'dictee',
     tooltip: 'tooltips.dictee',
@@ -18,6 +20,8 @@ export class ClubhouseViewComponent implements AfterViewInit {
   }, {
     x: 340,
     y: 286,
+    height: 232,
+    width: 130,
     href: 'assets/bttn_ch-dizzy.svg',
     alt: 'Dizzy',
     tooltip: 'tooltips.game',
@@ -25,6 +29,8 @@ export class ClubhouseViewComponent implements AfterViewInit {
   }, {
     x: 454,
     y: 78,
+    height: 178,
+    width: 140,
     href: 'assets/bttn_ch-profiel.svg',
     alt: 'Profiel',
     tooltip: 'tooltips.world',
@@ -32,6 +38,8 @@ export class ClubhouseViewComponent implements AfterViewInit {
   }, {
     x: 960,
     y: 374,
+    height: 144,
+    width: 168,
     href: 'assets/bttn_ch-steunkaarten.svg',
     alt: 'Steunkaarten',
     tooltip: 'tooltips.supportCards',

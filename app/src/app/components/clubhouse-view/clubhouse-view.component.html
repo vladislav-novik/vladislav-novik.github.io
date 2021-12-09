@@ -981,7 +981,13 @@
 
         <!-- [behemothTooltip]="item.tooltip" -->
         <g *ngFor="let item of items">
-            <image [attr.x]="item.x" [attr.y]="item.y" [attr.href]="item.href" [attr.name]="item.alt"
+            <image 
+                [attr.x]="item.x"
+                [attr.y]="item.y"
+                [attr.width]="item.width"
+                [attr.height]="item.height"
+                [attr.href]="item.href"
+                [attr.name]="item.alt"
                 (click)="item.onClick()" />
         </g>
     </svg>
