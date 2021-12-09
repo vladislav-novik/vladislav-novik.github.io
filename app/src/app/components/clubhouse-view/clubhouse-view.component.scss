@@ -1,0 +1,13 @@
+.wrapper {
+    overflow-x: hidden;
+    height: 100vh;
+}
+
+.background {
+    display: block;
+    height: 100%;
+
+    image {
+        cursor: pointer;
+    }
+}
